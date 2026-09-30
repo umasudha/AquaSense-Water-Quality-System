@@ -1,0 +1,19 @@
+# keys and secrets (never commit these)
+.env
+.env.*
+*.key
+*.pem
+
+# firebase local files
+.firebase/
+firebase-debug.log*
+.firebaserc
+
+# node
+node_modules/
+
+# os and editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
