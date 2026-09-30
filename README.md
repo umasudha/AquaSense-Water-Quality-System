@@ -4,7 +4,7 @@ Water quality testing for communities. Type in your readings and Aqua Sense tell
 
 Track: **Sustainability** (Code for Communities Hackathon, Build with AI India)
 
-Live demo: **PASTE YOUR LIVE LINK HERE**
+Live demo: **https://aquasense-water-quality-system.netlify.app/**
 
 Made by **Roahit**
 
